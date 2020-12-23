@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    background: #1e1e1e;
+}
+#logo{
+    width: 500px;
+    min-height: 500px;
+    border-radius: 50%;
+    background: red;
+}
